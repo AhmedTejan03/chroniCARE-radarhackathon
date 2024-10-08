@@ -1,0 +1,20 @@
+{
+    "databases": [
+        {
+            "$id": "ambulance.id, user.id",
+            "name": "Ambulance, user",
+            "enabled": true
+        }
+    ],
+    "collections": [
+        {
+            "$id": "esc",
+            "databaseId": "ambulance.id, user.id",
+            "name": "ChroniCARE",
+            "documentSecurity": true,
+            "attributes": [],
+            "indexes": [],
+            "enabled": true
+        }
+    ]
+}

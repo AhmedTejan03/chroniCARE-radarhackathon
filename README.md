@@ -1,4 +1,5 @@
-Seamless Healthcare: A Next.js Patient Management Solution
+Seamless Healthcare: 
+A Next.js Patient Management Solution
 
 Empower patients to take control of their healthcare journey with this intuitive patient management app. Built with Next.js, this solution streamlines the process of registering, booking, and managing appointments, all while providing healthcare administrators with essential tools for scheduling, confirming, and canceling appointments as needed.
 
@@ -9,7 +10,6 @@ Empower patients to take control of their healthcare journey with this intuitive
 - ShadCN
 - Twilio
 
-## <a name="features">🔋 Features</a>
 
 👉 **Patient Registration**: Seamlessly create personalized patient profiles.
 
@@ -30,7 +30,16 @@ Empower patients to take control of their healthcare journey with this intuitive
 👉 **Performance Monitoring**:  Proactively track app performance and identify potential errors using Sentry's powerful monitoring tools.
 
 -Intuitive User Interface: Prioritize a clean and user-friendly design for easy navigation.
+
 -Robust Security: Implement strong security measures to protect sensitive patient data.
+
 -Code Architecture & Reusability: Follow best practices for code organization and reusability to facilitate future -development and maintenance.
+
 -Scalability: Design the app to handle increasing numbers of users and data as it grows.
+
 -Accessibility: Ensure the app is accessible to users with disabilities.
+
+
+<!-- clone repo;
+run npm install;
+npm run dev -->
