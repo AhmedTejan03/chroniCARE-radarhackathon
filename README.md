@@ -50,7 +50,7 @@ Empower patients to take control of their healthcare journey with this intuitive
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/username/chronicare.git](https://github.com/AhmedTejan03/chroniCARE-radarhackathon.git
+git clone https://github.com/AhmedTejan03/chroniCARE-radarhackathon.git
 cd chronicare
 
 Acknowledgements
