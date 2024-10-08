@@ -40,6 +40,24 @@ Empower patients to take control of their healthcare journey with this intuitive
 -Accessibility: Ensure the app is accessible to users with disabilities.
 
 
-<!-- clone repo;
-run npm install;
-npm run dev -->
+## Installation
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- Appwrite (for backend services)
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/username/chronicare.git](https://github.com/AhmedTejan03/chroniCARE-radarhackathon.git
+cd chronicare
+
+Acknowledgements
+Thanks to all contributors and open-source libraries that made this project possible.
+
+Contact
+For inquiries, please contact salifahmedt@gmail.com 
+
+
+Feel free to ask if you need more sections or additional details!
